@@ -1,5 +1,4 @@
 
-#Edited on Feature branch
 node('master') 
 {
   stage('ContinuousDownload-Feature-1') 
